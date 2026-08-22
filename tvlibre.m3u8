@@ -1279,3 +1279,5 @@ https://www.youtube.com/c/FRANCE24Espanol/live
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNSpanish.cn" group-title="News (ES)",CGTN Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-name="JEMRTV" tvg-logo="https://vvrl.cc/es/jn9imb" tvg-id="CGTNSpanish.cn" group-title="News (ES)",CGTN Español
+https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
