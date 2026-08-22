@@ -1,12 +1,6 @@
 https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:-1 tvg-id="45TV.hn@SD" tvg-logo="https://i.imgur.com/SjUnQlg.png" group-title="News",45 TV (720p)
-https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8
-#EXTINF:-1 tvg-id="504TV.hn@SD" tvg-logo="https://i.imgur.com/c2HLI3k.png" group-title="Entertainment",504 TV (720p)
-https://mediacp.us:8081/504tvhn/index.m3u8
-#EXTINF:-1 tvg-id="AlfaOmegaVision.hn@SD" tvg-logo="https://i.imgur.com/4BSKCQT.png" group-title="General",Alfa & Omega Vision (480p)
 #EXTINF:-1 tvg-name="JEMRTV" tvg-logo="https://vvrl.cc/es/jn9imb" tvg-id="CGTNSpanish.cn" group-title="News (ES)",CGTN Español
 https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
-https://srv.panelcast.net/dorian/dorian/playlist.m3u8
 #EXTINF:-1 tvg-id="AlsaciasTelevision.hn@SD" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="General",Alsacias Televisión (ATV | Canal 28) (720p)
 https://s.emisoras.tv:8081/atv/index.m3u8
 #EXTINF:-1 tvg-id="AvivaTV.hn@SD" tvg-logo="https://i.imgur.com/0jMM4TQ.png" group-title="",Aviva TV (288p)
