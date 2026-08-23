@@ -1,7 +1,8 @@
 https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
 #EXTINF:-1 tvg-name="JEMRTV" tvg-logo="https://vvrl.cc/es/jn9imb" tvg-id="CGTNSpanish.cn" group-title="News (ES)",JEMRTVE spañol
 https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Canal5ElLider.hn@SD",Canal 5 El Líder (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 tvg-id="AlsaciasTelevision.hn@SD" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="General",Alsacias Televisión (ATV | Canal 28) (720p)
 https://s.emisoras.tv:8081/atv/index.m3u8
 
